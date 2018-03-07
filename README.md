@@ -93,11 +93,11 @@ plt.show()
 ```
 
 
-![png](output_11_0.png)
+![png](vehicle.png)
 
 
 
-![png](output_11_1.png)
+![png](non_vehicle.png)
 
 
 
@@ -120,7 +120,7 @@ plt.show()
 ```
 
 
-![png](output_12_0.png)
+![png](slided_windows.png)
 
 
 #### Feature Extraction
@@ -172,11 +172,11 @@ plt.show()
 ```
 
 
-![png](output_14_0.png)
+![png](vehicles_hog.png)
 
 
 
-![png](output_14_1.png)
+![png](non_vehicle_hog.png)
 
 
 #### Training the Machine Learning Model
@@ -291,11 +291,11 @@ plt.show()
 ```
 
 
-![png](output_19_0.png)
+![png](draw_boxes.png)
 
 
 
-![png](output_19_1.png)
+![png](heat_map.png)
 
 
 The heat-map would be used to remove both the duplicate detections and false positives.
@@ -327,7 +327,7 @@ plt.show()
 ```
 
 
-![png](output_23_0.png)
+![png](output.png)
 
 
 ## Conclusions, Analysis and Improvements
